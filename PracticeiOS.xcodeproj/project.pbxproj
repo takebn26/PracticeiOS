@@ -13,6 +13,7 @@
 		078C837A20CFD89500C5CC2F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 078C837920CFD89500C5CC2F /* Assets.xcassets */; };
 		078C837D20CFD89600C5CC2F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 078C837B20CFD89600C5CC2F /* LaunchScreen.storyboard */; };
 		078C838820CFD89600C5CC2F /* PracticeiOSTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 078C838720CFD89600C5CC2F /* PracticeiOSTests.swift */; };
+		1BA563F720D0C19800FE5953 /* ViewController2.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1BA563F620D0C19800FE5953 /* ViewController2.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		078C838320CFD89600C5CC2F /* PracticeiOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PracticeiOSTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		078C838720CFD89600C5CC2F /* PracticeiOSTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PracticeiOSTests.swift; sourceTree = "<group>"; };
 		078C838920CFD89600C5CC2F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1BA563F620D0C19800FE5953 /* ViewController2.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = ViewController2.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +85,7 @@
 				078C837920CFD89500C5CC2F /* Assets.xcassets */,
 				078C837B20CFD89600C5CC2F /* LaunchScreen.storyboard */,
 				078C837E20CFD89600C5CC2F /* Info.plist */,
+				1BA563F620D0C19800FE5953 /* ViewController2.storyboard */,
 			);
 			path = PracticeiOS;
 			sourceTree = "<group>";
@@ -179,6 +182,7 @@
 			files = (
 				078C837D20CFD89600C5CC2F /* LaunchScreen.storyboard in Resources */,
 				078C837A20CFD89500C5CC2F /* Assets.xcassets in Resources */,
+				1BA563F720D0C19800FE5953 /* ViewController2.storyboard in Resources */,
 				078C837820CFD89400C5CC2F /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
