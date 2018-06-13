@@ -12,7 +12,15 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+        
+        title = "画面タイトル"
+        
+        view.backgroundColor = .white
+        
+        let pageLabel = UILabel(frame: CGRect(x: 20, y: 80, width: view.bounds.size.width, height: 20))
+        pageLabel.backgroundColor = .red
+        pageLabel.text = "ViewController"
+        self.view.addSubview(pageLabel)
     }
 
     override func didReceiveMemoryWarning() {
